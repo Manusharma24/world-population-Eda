@@ -16,7 +16,7 @@ Overview of the steps taken to process and explore the data in the world populat
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 - CSV file located in `/data/` folder
-- Summary table created from ingested data and used for analysis
+
   
 ---
 <h2><a class="anchor" id="tools_technologies"></a>Tools & Technologies</h2>
