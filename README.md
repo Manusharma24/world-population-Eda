@@ -2,11 +2,11 @@
 
 ---
 ## Table of Contents
-- <a href="overview">Overview</a>
-- <a href="dataset">Dataset</a>
-- <a href="tools_technologies">Tools & Technologies</a>
-- <a href="project">Exploratory Data Analysis</a>
-- <a href="author--contact">contact</a>
+- <a href="#overview">Overview</a>
+- <a href="#dataset">Dataset</a>
+- <a href="#tools_technologies">Tools & Technologies</a>
+- <a href="#project">Exploratory Data Analysis</a>
+- <a href="#author--contact">contact</a>
   
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
