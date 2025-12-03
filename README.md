@@ -29,7 +29,7 @@ Overview of the steps taken to process and explore the data in the world populat
 
 - understand and inspect the data 
 - performed univariate and bivariate analysis
-- visualized complex patters
+- visualized complex patterns
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Contact</h2>
